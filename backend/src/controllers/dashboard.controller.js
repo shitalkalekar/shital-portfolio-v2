@@ -1,5 +1,5 @@
 import Project from "../models/Project.js";
-import Skill from "../models/skill.js";
+import Skill from "../models/Skill.js";
 import Experience from "../models/Experience.js";
 import Education from "../models/Education.js";
 import Certification from "../models/Certification.js";
